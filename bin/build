@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sudo mkdir -p /opt/orientdb/{database,backup}
+docker build -t orientdb-2.0 .

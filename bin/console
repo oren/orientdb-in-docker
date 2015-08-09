@@ -1,0 +1,5 @@
+#!/bin/sh
+
+docker run --rm -it \
+            orientdb-2.0 \
+            /opt/orientdb/bin/console.sh

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+docker run --name orientdb -d -v $PWD:/opt/orientdb/config -v /opt/orientdb/databases:/opt/orientdb/databases -v /opt/orientdb/backup:/opt/orientdb/backup -p 2424:2424 -p 2480:2480 oreng/orientdb-2.0
