@@ -15,6 +15,10 @@ This repository is a dockerfile for creating an orientdb image with :
 
     bin/run
 
+## Web Interface
+
+  localhost:2480 (on Mac use `boot2docker ip` instead of localhost)
+
 ## Console
 
     bin/console
