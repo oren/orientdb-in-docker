@@ -1,4 +1,4 @@
-# orientdb-game
+# orientdb-in-docker
 
 [OrientDB](http://www.orientdb.org) is the first Multi-Model Open Source NoSQL DBMS that combines the power of graphs and the flexibility of documents into one scalable, high-performance operational database.
 
